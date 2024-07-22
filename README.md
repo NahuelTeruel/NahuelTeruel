@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hola soy Nahuel 👋🏻
+<p>Actualmente me encuentro estudiando ingeniería en sistemas de información y desarrollo full stack. Aquí podrás ver mi portfolio y algunos de mis proyectos.</p>
 
+<h3 style={color:"red"}>Habibilidades</h3>
+<ul>
+  <li>Trabajo en equipo</li>
+  <li>React</li>
+  <li>JavaScript</li>
+  <li>Css</li>
+  <li>Html</li>
+</ul>
 <!--
 **NahuelTeruel/NahuelTeruel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
