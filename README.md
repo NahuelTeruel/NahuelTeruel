@@ -1,7 +1,7 @@
 ## Hola soy Nahuel 👋🏻
 <p>Actualmente me encuentro estudiando ingeniería en sistemas de información y desarrollo full stack. Aquí podrás ver mi portfolio y algunos de mis proyectos.</p>
 
-<h3 style={color:"red"}>Habibilidades</h3>
+<h3 style={color:"red"}>Habilidades</h3>
 <ul>
   <li>Trabajo en equipo</li>
   <li>React</li>
